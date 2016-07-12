@@ -1,2 +1,2 @@
-# google-homepage
-# another one, though
+# Copy of the google homepage
+# CSS Training
