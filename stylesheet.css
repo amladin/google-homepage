@@ -1,0 +1,17 @@
+#header {
+	text-align: right;
+	float:right;
+
+}
+
+.square1, .square2, .square3 {
+	height:4px;
+	width: 4px;
+	margin-top:2px;
+	margin-left:6px;
+	background-color: grey;
+}
+
+.apps {
+	display:inline;
+}
